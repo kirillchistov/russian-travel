@@ -1,0 +1,18 @@
+.place__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-bottom: 48px;
+}
+
+@media screen and (max-width: 768px) {
+  .place__container {
+    margin-bottom: 22px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place__container {
+    margin-bottom: 7px;
+  }
+}

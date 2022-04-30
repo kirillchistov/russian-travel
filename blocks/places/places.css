@@ -1,0 +1,49 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto 92px; /* или лучше через внутренний отступ? */
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .places {
+    max-width: calc(100% - 96px);
+  }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .places {
+    max-width: calc(100% - 48px);
+  }
+}
+
+/* можно и попроще в лоб, наверное
+
+@media screen and (max-width: 1024px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    max-width: 720px;
+    margin: auto;
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .places {
+    max-width: 96%;
+    padding-top: 64px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    max-width: 320px;
+    padding-top: 64px;
+    margin: auto;
+  }
+}
+*/

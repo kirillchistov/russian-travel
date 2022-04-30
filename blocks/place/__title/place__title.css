@@ -1,0 +1,55 @@
+.place__title {
+  margin: 8px 0 0 0;
+  align-self: end;
+  color: #fff;
+  font-size: 4.5rem;
+  line-height: 76px;
+  font-weight: 900;
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .place__title {
+    max-width: 95%;
+    margin: 0;
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+
+@media (max-width: 425px) {
+  .place__title {
+    margin: 0 16px;
+    font-size: 2rem;
+    line-height: 35px;
+  }
+}
+
+/* Вариант с гридами и шрифтами в rem 
+.place__title {
+  padding: 0;
+  margin: 0 0 48px 0;
+  grid-column: 1/2;
+  grid-row: 1/2;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 4.5rem;
+  line-height: 1.06;
+}
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    margin-bottom: 22px;
+    font-size: 2.625rem;
+    line-height: 1.1;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__title {
+    width: 288px;
+    margin: auto;
+    font-size: 2rem;
+    line-height: 1.09;
+  }
+}
+*/

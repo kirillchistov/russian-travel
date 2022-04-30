@@ -1,0 +1,75 @@
+.cover {
+  max-width: 1184px;
+  margin: 0 auto 92px;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .cover {
+    max-width: 100%;
+  }
+}
+
+
+/* вариант с flex и транзитами пока не починил 
+.cover {
+  max-width: 1184px;
+  min-height: 740px;
+  margin: 0 auto 0;
+  background-image: url(../../images/cover-trains.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.cover:after {
+  content: '';
+  background: rgba(42, 44, 47, .3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  transition: background .5s linear;
+}
+
+.cover:hover:after {
+  content: '';
+  background: rgba(42, 44, 47, .8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    max-width: 100vw;
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    max-width: 100vw;
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover {
+    max-width: 100vw;
+    min-height: 200px;
+    margin: 0;
+  }
+}
+
+*/

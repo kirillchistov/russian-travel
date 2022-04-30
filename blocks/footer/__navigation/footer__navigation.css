@@ -1,0 +1,5 @@
+@media (max-width: 425px) {
+  .footer__navigation {
+    margin-bottom: 48px;
+  }
+}

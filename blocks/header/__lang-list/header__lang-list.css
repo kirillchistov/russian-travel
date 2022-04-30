@@ -1,0 +1,14 @@
+.header__lang-list {
+  margin: 18px 0 0 auto;
+  padding: 0;
+  color: #fff
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+}
+
+@media (max-width: 767px) {
+  .header__lang-list {
+    margin: 14px 0 0 auto;
+  }
+}
