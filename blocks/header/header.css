@@ -1,13 +1,10 @@
 .header {
   max-width: calc(100% - 96px);
-/* может лучше в лоб max-width: 1184px; */
   margin: 28px auto 64px;
-/* может лучше через внутренний padding: 28px 48px 0 48px; margin: 0;*/
   box-sizing: content-box;
   display: flex;
   justify-content: start;
   align-items: flex-start;
-/* или лучше так justify-content: space-between; */
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {

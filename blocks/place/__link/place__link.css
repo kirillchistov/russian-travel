@@ -1,11 +1,10 @@
 .place__link {
-  padding: 0; /* margin: 12px 0 0 0 */
+  padding: 0;
   color: #fff;
-  font-size: 18px; /* 1.125rem */
-  line-height: 22px; /* 1.22 */
-  font-weight: 400; /* normal */
-  font-style: normal;
-  transition: ease-in-out .335s; /*   transition: opacity .5s linear */
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  transition: ease-in-out .335s;
 }
 
 .place__link:hover {

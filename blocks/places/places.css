@@ -1,6 +1,6 @@
 .places {
   max-width: 984px;
-  margin: 0 auto 92px; /* или лучше через внутренний отступ? */
+  margin: 0 auto 92px;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {

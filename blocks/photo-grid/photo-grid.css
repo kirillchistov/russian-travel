@@ -2,8 +2,9 @@
   max-width: calc(100% - 96px);
   margin: 0 auto 92px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* repeat(4, minmax(200px, 284px)) */
-/*  grid-template-rows: repeat(3, 213px); */
+  grid-template-columns: repeat(4, 1fr);
+/* repeat(4, minmax(200px, 284px)) 
+   grid-template-rows: repeat(3, 213px) */
   gap: 16px;
 }
 
@@ -33,7 +34,7 @@
 }
 
 
-/* Эта верси плохо работает
+/* Эта версия плохо работает
 .photo-grid {
   max-width: 1184px;
   padding: 92px 48px 0 48px;
