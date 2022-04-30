@@ -1,6 +1,6 @@
 .header {
   max-width: calc(100% - 96px);
-/* может лучше в лоб max-width: 1184px; */    
+/* может лучше в лоб max-width: 1184px; */
   margin: 28px auto 64px;
 /* может лучше через внутренний padding: 28px 48px 0 48px; margin: 0;*/
   box-sizing: content-box;
@@ -16,12 +16,14 @@
     margin: 28px auto 48px;
   }
 }
+
 @media (min-width: 426px) and (max-width: 768px) {
   .header {
     max-width: calc(100% - 48px);
     margin: 28px auto 48px;
   }
 }
+
 @media (max-width: 425px) {
   .header {
     max-width: calc(100% - 32px);
