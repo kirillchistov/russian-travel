@@ -1,5 +1,5 @@
-@media (max-width: 425px) {
+@media (max-width: 767px) {
   .footer__navigation {
-    margin-bottom: 48px;
+    margin-bottom: 24px;
   }
 }
