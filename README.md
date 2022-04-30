@@ -33,7 +33,7 @@ URL: https://kirillchistov.github.io/russian-travel/index.html
 - Адаптивную верстку под каждое разрешение в ТЗ
 - Постараемся соблюсти БЭМ
 - Проверим во всех браузерах
-- Проверим через [чек-лист ПР3](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
+- Проверим по [чек-листу ПР3](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
 - Прогоним через [валидаторы HTML](https://validator.w3.org/nu/#file) и [БЭМ](https://nglazov.github.io/bem-validator-page/)
 - Постараемся не плодить стили там, где они наследуются от родителей
 - Постараемся зачистить коммит от неиспользуемых файлов
