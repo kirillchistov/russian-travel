@@ -39,7 +39,7 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__list-item/intro__list-item.css');
-@import url('../blocks/intro/__list-title/intro__list-title.css');
+@import url('../blocks/intro/__list-bold/intro__list-bold.css');
 
 /* Photo-Grid BEM */
 @import url('../blocks/photo-grid/photo-grid.css');
