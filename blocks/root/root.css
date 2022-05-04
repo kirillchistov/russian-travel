@@ -1,7 +1,31 @@
 .root {
   max-width: 1280px;
   margin: 0 auto;
-  font-family: 'Inter', Arial, Helvetica, sans-serif;
   background: #2a2c2f;
   color: #fff;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+
+@media screen and (max-width:1280px) {
+  .page {
+    max-width: 1280px;
+  }
+}
+@media screen and (max-width:1024px) {
+  .page {
+    max-width: 1024px;
+  }
+}
+@media screen and (max-width:768px) {
+  .page {
+    max-width: 768px;
+  }
+}
+
+ @media screen and (max-width:375px) {
+  .page {
+    max-width: 100%;
+  }
 }

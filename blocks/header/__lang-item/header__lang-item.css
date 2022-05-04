@@ -1,10 +1,10 @@
 .header__lang-item {
-  margin-right: 18px;
+  margin: 0 auto;
+  padding-right: 18px;
   list-style: none;
 }
 
 /* последнему языку не нужен отступ справа */
-
 .header__lang-item:last-child {
-  margin-right: 0;
+  padding: 0;
 }

@@ -1,13 +1,13 @@
 .place {
   margin: 0;
-  padding-top: 80px;
+  padding: 80px 0 0;
   display: grid;
   grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
   gap: 48px 40px;
 }
 
 .place:first-child {
-  padding-top: 0;
+  padding: 0;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
@@ -28,5 +28,9 @@
   .place {
     grid-template-columns: 1fr;
     gap: 32px 0;
+    padding: 50px 0 0;
+  }
+  .place:first-child {
+    padding: 0;
   }
 }

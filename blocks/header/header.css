@@ -1,6 +1,6 @@
 .header {
   max-width: calc(100% - 96px);
-  margin: 0;
+  margin: 0 auto;
   padding: 28px 48px 0 48px;
   box-sizing: content-box;
   display: flex;
@@ -14,18 +14,16 @@
   }
 }
 
-@media (min-width: 426px) and (max-width: 767px) {
+@media screen and (min-width: 426px) and (max-width: 767px) {
   .header {
     max-width: calc(100% - 48px);
     padding-top: 24px;
   }
 }
 
-@media (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .header {
     max-width: calc(100% - 32px);
-    padding-top: 16px;
+    padding: 16px 16px 0;
   }
 }
-
-/* Здесь бы меню гамбургер */

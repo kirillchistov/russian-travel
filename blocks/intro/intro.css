@@ -4,23 +4,23 @@
   padding-top: 92px;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .intro {
     max-width: calc(100% - 96px);
-    padding-top: 88px;
+    padding: 88px 48px 0;
   }
 }
 
 @media (min-width:426px) and (max-width: 767px) {
   .intro {
     max-width: calc(100% - 48px);
-    padding-top: 64px;
+    padding: 64px 24px 0;
   }
 }
 
 @media (max-width: 425px) {
   .intro {
-    max-width: calc(100% - 32px);
-    padding-top: 64px;
+    max-width: 100%;
+    padding: 64px 16px 0;
   }
 }

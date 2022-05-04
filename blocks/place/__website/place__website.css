@@ -1,14 +1,17 @@
 .place__website {
   margin: 0;
+  padding: 0;
   align-self: end;
 }
 @media (min-width: 426px) and (max-width: 768px) {
   .place__website {
     margin: 0;
+    padding: 0;
   }
 }
 @media (max-width: 425px) {
   .place__website {
-    display: none;
+    margin: 0;
+    padding: 0 16px;
   }
 }
