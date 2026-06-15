@@ -686,7 +686,7 @@ export const places: Place[] = [
     title: 'Новая Земля',
     url: 'https://novayazemlya.info',
     urlText: 'novayazemlya.info',
-    imageSrc: U('photo-1516912481800-cf26606b2f35'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=e9044c368f23da0fa72adc6ddbd7a32604895fc1-4054461-images-thumbs&n=13',
     imageAlt: 'Ледники Новой Земли',
     paragraphs: [
       'Новая Земля — архипелаг между Баренцевым и Карским морями. Именно здесь до 1990 года проводились ядерные испытания — самый мощный взрыв в истории человечества, «Царь-бомба» (58 мегатонн), был произведён в 1961 году.',
@@ -708,7 +708,7 @@ export const places: Place[] = [
     title: 'Псково-Печерский монастырь',
     url: 'https://pskovo-pechersky-monastery.ru',
     urlText: 'pskovo-pechersky-monastery.ru',
-    imageSrc: U('photo-1548690312-e3b507d8c110'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=79a64aec38d58bc30febe178bcdc1d2f486f936d-4271037-images-thumbs&n=13',
     imageAlt: 'Псково-Печерский монастырь',
     paragraphs: [
       'Псково-Печерский монастырь в Печорах — действующий православный монастырь, который никогда не закрывался. Даже в советское время здесь молились и постригались в монахи. Пещеры — «богом зданные» — служат некрополем уже пятьсот лет.',
@@ -719,7 +719,7 @@ export const places: Place[] = [
     title: 'Кирилло-Белозерский монастырь',
     url: 'https://kirmuseum.ru',
     urlText: 'kirmuseum.ru',
-    imageSrc: U('photo-1549490349-8643362247b5'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=9a4615d4a5e41cfae4e94e9b002c3cf36aa3b0fd-5226897-images-thumbs&n=13',
     imageAlt: 'Кирилло-Белозерский монастырь',
     paragraphs: [
       'Кирилло-Белозерский монастырь — крупнейший по территории монастырь России и один из самых богатых в XV–XVII веках. Его стены вмещают несколько соборов, а библиотека была второй после Троице-Сергиевой лавры.',
@@ -730,7 +730,7 @@ export const places: Place[] = [
     title: 'Вологда',
     url: 'https://vologda-portal.ru',
     urlText: 'vologda-portal.ru',
-    imageSrc: U('photo-1596397249129-3f2f9b0f6b18'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=a017f0d3299bfaf7944b92d9700d1da38002f427-12422251-images-thumbs&n=13',
     imageAlt: 'Вологодский кремль',
     paragraphs: [
       'Вологда — сердце Русского Севера. Более ста деревянных особняков XIX века, кружевные наличники, вологодское кружево — символ города, которое плетут здесь с XVI века. Кремль с Софийским собором XVI в. виден с реки Вологды.',
@@ -752,7 +752,7 @@ export const places: Place[] = [
     title: 'Белозерск',
     url: 'https://belozersk.ru',
     urlText: 'belozersk.ru',
-    imageSrc: U('photo-1470770903676-69b98201ea5e'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=3f9a92025cfcd7d228a0589795172e4fa1eabb22-5665039-images-thumbs&n=13',
     imageAlt: 'Белозерский кремль у озера',
     paragraphs: [
       'Белозерск — один из старейших городов России (862 г.) стоит у берега Белого озера. Земляной вал кремля XIV века сохранился почти нетронутым — гулять по нему можно, как по парку, с видом на воду с обеих сторон.',
@@ -763,7 +763,7 @@ export const places: Place[] = [
     title: 'Переславль-Залесский',
     url: 'https://pereslavl.ru',
     urlText: 'pereslavl.ru',
-    imageSrc: U('photo-1596397249129-3f2f9b0f6b18'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=8e3a38c4c82a9154336479616bd2331e5139a3c2-5231590-images-thumbs&n=13',
     imageAlt: 'Плещеево озеро у Переславля',
     paragraphs: [
       'Переславль-Залесский — родина Александра Невского и место, где Пётр I строил свою «потешную флотилию» на Плещеевом озере. Бот «Фортуна», единственный сохранившийся корабль той эпохи, хранится в музее у берега.',
@@ -774,7 +774,7 @@ export const places: Place[] = [
     title: 'Сергиев Посад',
     url: 'https://visitsergievposad.ru',
     urlText: 'visitsergievposad.ru',
-    imageSrc: U('photo-1548690312-e3b507d8c110'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=ff92a3d8f17d2b1f05ec2ee95c886208e158ee58-7985106-images-thumbs&n=13',
     imageAlt: 'Троице-Сергиева лавра',
     paragraphs: [
       'Сергиев Посад — духовная столица России. Троице-Сергиева лавра, основанная Сергием Радонежским в 1337 году, — главный православный монастырь страны и место паломничества миллионов верующих.',
@@ -796,7 +796,7 @@ export const places: Place[] = [
     title: 'Ясная Поляна',
     url: 'https://ypmuseum.ru',
     urlText: 'ypmuseum.ru',
-    imageSrc: U('photo-1448630360862-ad08e3d68bf6'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=2c7f17ff975b33c6cfdf34429d227bf5f089f150-5022652-images-thumbs&n=13',
     imageAlt: 'Усадьба Толстого в Ясной Поляне',
     paragraphs: [
       'Ясная Поляна под Тулой — усадьба и мир Льва Толстого. Именно здесь написаны «Война и мир» и «Анна Каренина». Берёзовые аллеи, яблоневый сад, пруды и простая деревянная могила великого писателя на лесной поляне.',
@@ -807,7 +807,7 @@ export const places: Place[] = [
     title: 'Дивногорье',
     url: 'https://divnogorje.ru',
     urlText: 'divnogorje.ru',
-    imageSrc: U('photo-1562602833-63110ee1dc37'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=d1d57f141a3d73808e1c79682586be1875da5f66-5876581-images-thumbs&n=13',
     imageAlt: 'Меловые столбы Дивногорья',
     paragraphs: [
       'Дивногорье — природный и архитектурный заповедник в Воронежской области. Меловые столбы («дивы»), вырастающие из холмов над Доном и Тихой Сосной, открываются внезапно — и это зрелище производит совершенно нерусское впечатление.',
@@ -818,7 +818,7 @@ export const places: Place[] = [
     title: 'Пятигорск',
     url: 'https://pyatigorsk.org',
     urlText: 'pyatigorsk.org',
-    imageSrc: U('photo-1544892374-6ef4567db59b'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=2b2e766f83bde6b6440dadd0f5d28fa4d3d8d696-5018061-images-thumbs&n=13',
     imageAlt: 'Вид на Эльбрус с горы Машук в Пятигорске',
     paragraphs: [
       'Пятигорск — бальнеологическая столица России. Нарзанные источники, галереи курзала XIX века и гора Машук с канатной дорогой — традиционная программа. Но главное — вид на Эльбрус, который в ясный день стоит над горизонтом, как мираж.',
@@ -840,7 +840,7 @@ export const places: Place[] = [
     title: 'Байкальский тракт',
     url: 'https://baikaltrack.ru',
     urlText: 'baikaltrack.ru',
-    imageSrc: U('photo-1470770903676-69b98201ea5e'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=2b317555506f4243fefc5a83fbad2c8a-4871215-images-thumbs&n=13',
     imageAlt: 'Дорога вдоль берега Байкала',
     paragraphs: [
       'Байкальский тракт — дорога из Иркутска к посёлку Листвянка у самого истока Ангары. Шестьдесят километров вдоль таёжных холмов заканчиваются у берега Байкала, где видно, как самая чистая вода в мире переходит в реку.',
