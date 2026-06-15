@@ -15,7 +15,7 @@ export const places: Place[] = [
     title: 'Куршская коса',
     url: 'http://park-kosa.ru',
     urlText: 'park-kosa.ru',
-    imageSrc: './images/place-park-kosa.jpg',
+    imageSrc: 'https://raw.githubusercontent.com/sanyaman/russian-travel/main/images/place-kosa.jpg',
     imageAlt: 'Куршская коса',
     paragraphs: [
       'Здесь, посреди лесов и песчаных дюн, вы сможете увидеть два водных горизонта — спокойного Куршского залива с одной стороны и подёрнутого рябью волн Балтийского моря с другой. Уникальная природная зона на краю российского анклава.',
@@ -26,7 +26,7 @@ export const places: Place[] = [
     title: 'Кольский',
     url: 'https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy',
     urlText: 'National Geographic',
-    imageSrc: './images/place-kolsky-arch.jpg',
+    imageSrc: 'https://raw.githubusercontent.com/sanyaman/russian-travel/main/images/place-kolsky.jpg',
     imageAlt: 'Кольский полуостров',
     paragraphs: [
       'Почти весь полуостров находится за Полярным кругом. Саамская тундра, от которой на юг — тайга, а на север — Ледовитый океан, прикидывающийся Баренцевым морем.',
@@ -37,7 +37,7 @@ export const places: Place[] = [
     title: 'Алтай',
     url: 'https://www.facebook.com/vera.bashmakova/posts/10156011613718822',
     urlText: 'Facebook',
-    imageSrc: './images/place-altai.jpg',
+    imageSrc: 'https://raw.githubusercontent.com/sanyaman/russian-travel/main/images/place-altai.jpg',
     imageAlt: 'Алтай',
     paragraphs: [
       'Алтай — одно из красивейших мест в России. В первую очередь из-за гор: если ехать вдоль хребта, вы увидите склоны, усыпанные соснами, горные реки и озёра. А если вы откроете в автомобиле окна, сможете познакомиться с невидимым чудом здешних мест — горным воздухом.',
@@ -48,7 +48,7 @@ export const places: Place[] = [
     title: 'Зимний Байкал',
     url: 'https://vk.com/baikalmile',
     urlText: 'vk.com/baikalmile',
-    imageSrc: './images/place-baikal-winter.jpg',
+    imageSrc: 'https://raw.githubusercontent.com/sanyaman/russian-travel/main/images/place-winter-baikal.jpg',
     imageAlt: 'Зимний Байкал',
     paragraphs: [
       'Всем известен Байкал как крупнейшее озеро в мире. Многие также знают, что это самый большой источник пресной воды и одно из красивейших мест в России.',
@@ -59,7 +59,7 @@ export const places: Place[] = [
     title: 'Карелия',
     url: 'http://vodlozero.ru/',
     urlText: 'vodlozero.ru',
-    imageSrc: './images/place-karelia.jpg',
+    imageSrc: 'https://raw.githubusercontent.com/sanyaman/russian-travel/main/images/place-karelia.jpg',
     imageAlt: 'Карелия',
     paragraphs: [
       'Сибирь заканчивается не на Урале, а в Карелии: образующая тайгу сибирская лиственница не растёт западнее Водлозера. Зато здесь она вымахивает на 30 метров — леса карельских национальных парков из-за непроходимых болот никогда не знали топора.',
@@ -70,7 +70,7 @@ export const places: Place[] = [
     title: 'Валаам',
     url: 'https://valaam.ru',
     urlText: 'valaam.ru',
-    imageSrc: U('photo-1548690312-e3b507d8c110'),
+    imageSrc: 'https://prv1.lori-images.net/ostrov-valaam-na-ladozhskom-ozere-0042013489-preview.jpg',
     imageAlt: 'Валаамский монастырь на рассвете',
     paragraphs: [
       'Архипелаг в северной части Ладожского озера известен прежде всего Валаамским Спасо-Преображенским монастырём — одной из главных православных святынь России. Сюда приплывали паломники ещё в XII веке, и сегодня монастырские скиты разбросаны по всему острову.',
@@ -81,7 +81,7 @@ export const places: Place[] = [
     title: 'Кижи',
     url: 'https://kizhi.karelia.ru',
     urlText: 'kizhi.karelia.ru',
-    imageSrc: U('photo-1549490349-8643362247b5'),
+    imageSrc: 'https://img.pac.ru/landmarks/425992/big/4DF6EB2E7F0001011223AD13CE4A8E61.jpg',
     imageAlt: 'Деревянные церкви острова Кижи',
     paragraphs: [
       'Остров Кижи в Онежском озере — один из крупнейших музеев деревянного зодчества под открытым небом. Двадцатидвухглавая Преображенская церковь 1714 года постройки не имеет аналогов в мире: она сложена из сосновых брёвен без единого гвоздя.',
@@ -92,7 +92,7 @@ export const places: Place[] = [
     title: 'Соловецкие острова',
     url: 'https://solovki-monastyr.ru',
     urlText: 'solovki-monastyr.ru',
-    imageSrc: U('photo-1465310477141-6fb93167b8f2'),
+    imageSrc: 'https://solovki-monastyr.ru/static/core/img/top-bg-04.jpg',
     imageAlt: 'Соловецкий монастырь у воды',
     paragraphs: [
       'Соловецкий архипелаг в Белом море — место с трагической и великой историей. Средневековый монастырь-крепость, система беломорских каналов, построенных монахами ещё в XVI веке, и память о лагере СЛОН советской эпохи.',
@@ -103,7 +103,7 @@ export const places: Place[] = [
     title: 'Петергоф',
     url: 'https://peterhofmuseum.ru',
     urlText: 'peterhofmuseum.ru',
-    imageSrc: U('photo-1547448415-e9f5b28e570d'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/3/32/2287._%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%84._%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D0%B0%D1%81%D0%BA%D0%B0%D0%B4_%D1%81_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0%D0%BC%D0%B8.jpg',
     imageAlt: 'Фонтаны Петергофа',
     paragraphs: [
       'Петергоф — «русский Версаль» на берегу Финского залива. Сто восемьдесят семь фонтанов и 4 каскада работают без единого насоса — вода подаётся самотёком из Ропшинских высот по инженерной системе, придуманной Петром I.',
@@ -114,7 +114,7 @@ export const places: Place[] = [
     title: 'Санкт-Петербург',
     url: 'https://visit-petersburg.ru',
     urlText: 'visit-petersburg.ru',
-    imageSrc: U('photo-1513326738677-b964603b136d'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Palace_Bridge_SPB_%28img2%29_Crop.jpg/3840px-Palace_Bridge_SPB_%28img2%29_Crop.jpg',
     imageAlt: 'Дворцовая набережная Санкт-Петербурга',
     paragraphs: [
       'Второй по величине город России умещает в себе больше мировых шедевров, чем иная европейская столица. Эрмитаж, Русский музей, Мариинский театр, Исаакиевский собор — и всё это в пешей доступности.',
@@ -125,7 +125,7 @@ export const places: Place[] = [
     title: 'Суздаль',
     url: 'https://suzdal.org',
     urlText: 'suzdal.org',
-    imageSrc: U('photo-1596397249129-3f2f9b0f6b18'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Suzdal_PokrovskyMonastery_0437.jpg/3840px-Suzdal_PokrovskyMonastery_0437.jpg',
     imageAlt: 'Суздальский кремль зимой',
     paragraphs: [
       'Суздаль — живой музей Древней Руси. В городе с населением менее 10 тысяч человек насчитывается более 200 памятников архитектуры. Нет ни одного завода, зато есть пять монастырей и десятки белокаменных церквей.',
@@ -136,7 +136,7 @@ export const places: Place[] = [
     title: 'Владимир',
     url: 'https://vladimirtravel.ru',
     urlText: 'vladimirtravel.ru',
-    imageSrc: U('photo-1518709766631-a6a7f45921c3'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.JPG/3840px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%2C_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80.JPG',
     imageAlt: 'Успенский собор Владимира',
     paragraphs: [
       'Белокаменные соборы XII века — Успенский и Дмитриевский — внесены в список ЮНЕСКО и по праву считаются вершиной домонгольской архитектуры Руси. Золотые ворота охраняют въезд в город уже восемьсот лет.',
@@ -147,7 +147,7 @@ export const places: Place[] = [
     title: 'Ярославль',
     url: 'https://welcome.yaroslavl.ru',
     urlText: 'welcome.yaroslavl.ru',
-    imageSrc: U('photo-1504214208698-ea1916a2195a'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/3/32/Yaroslavl_Russia_Montage.jpg',
     imageAlt: 'Набережная Ярославля',
     paragraphs: [
       'Ярославль — один из старейших городов России, основанный ещё Ярославом Мудрым в 1010 году. Его исторический центр внесён в список Всемирного наследия ЮНЕСКО: десятки храмов XVI–XVIII веков, нарядная набережная Волги, ансамбль Спасо-Преображенского монастыря.',
@@ -158,7 +158,7 @@ export const places: Place[] = [
     title: 'Великий Новгород',
     url: 'https://visitnovgorod.ru',
     urlText: 'visitnovgorod.ru',
-    imageSrc: U('photo-1575936123452-b67c3203c357'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Veliky_Novgorod_montage_%282015%29.png',
     imageAlt: 'Новгородский кремль',
     paragraphs: [
       'Великий Новгород — первая русская демократия. Именно здесь в IX веке зародилось вечевое самоуправление, а купеческая республика торговала с Ганзой и Византией. Кремль-детинец с четырнадцатью башнями стоит прямо на берегу Волхова.',
@@ -169,7 +169,7 @@ export const places: Place[] = [
     title: 'Псков',
     url: 'https://visitpskov.ru',
     urlText: 'visitpskov.ru',
-    imageSrc: U('photo-1598300042247-d088f8ab3a91'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pskov_asv07-2018_Kremlin_aerial2.jpg/3840px-Pskov_asv07-2018_Kremlin_aerial2.jpg',
     imageAlt: 'Псковский кремль',
     paragraphs: [
       'Псков — город-воин. Его кремль-кром, вознёсшийся на мысу при слиянии Великой и Псковы, — неприступная крепость, которую так и не смогли взять ни немецкие рыцари, ни литовские князья. За средние века Псков выдержал двадцать шесть осад.',
@@ -191,7 +191,7 @@ export const places: Place[] = [
     title: 'Нижний Новгород',
     url: 'https://visitnnov.ru',
     urlText: 'visitnnov.ru',
-    imageSrc: U('photo-1578662996442-48f60103fc96'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nizhny_Novgorod_2025-04-29_Minin_and_Pozharsky_square_01.jpg/3840px-Nizhny_Novgorod_2025-04-29_Minin_and_Pozharsky_square_01.jpg',
     imageAlt: 'Вид на Нижний Новгород и Волгу',
     paragraphs: [
       'Нижний Новгород стоит у слияния Волги и Оки — там, где Европа встречается с Азией. Кремль на горе, Чкаловская лестница из 560 ступеней и панорама двух рек сразу — город открывается не сразу, но поражает.',
@@ -202,7 +202,7 @@ export const places: Place[] = [
     title: 'Казань',
     url: 'https://kazantravel.ru',
     urlText: 'kazantravel.ru',
-    imageSrc: U('photo-1563191011-fd28ac0e9d0f'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B22.jpg/3840px-%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D1%86%D0%B5%D0%B22.jpg',
     imageAlt: 'Казанский кремль с мечетью Кул-Шариф',
     paragraphs: [
       'Третья столица России, — так называют Казань — переплавила православие и ислам в уникальный культурный сплав. Кремль XIV века с мечетью Кул-Шариф и Благовещенским собором стоит на берегу Казанки.',
@@ -224,7 +224,7 @@ export const places: Place[] = [
     title: 'Сочи',
     url: 'https://sochi-olimp.ru',
     urlText: 'sochi-olimp.ru',
-    imageSrc: U('photo-1582647139-9a7c0bef0d5f'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/9/95/Sochi_Marine_passenger_terminal_P5010102_2175.jpg',
     imageAlt: 'Побережье Чёрного моря в Сочи',
     paragraphs: [
       'Сочи — единственный в России субтропический курорт. Пальмы, самшитовые рощи, горы у самого моря и мягкий климат круглый год привлекают миллионы туристов. Олимпийские объекты 2014 года перепрофилированы в парки развлечений, гостиницы и спортивные площадки.',
@@ -235,7 +235,7 @@ export const places: Place[] = [
     title: 'Красная Поляна',
     url: 'https://gazprom-ski.ru',
     urlText: 'gazprom-ski.ru',
-    imageSrc: U('photo-1506905925346-21bda4d32df4'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mountain_Olympic_Village_at_the_Psekhako.jpg/3840px-Mountain_Olympic_Village_at_the_Psekhako.jpg',
     imageAlt: 'Горнолыжные склоны Красной Поляны',
     paragraphs: [
       'Горный кластер Сочи — один из лучших горнолыжных курортов России. Три больших комплекса: «Роза Хутор», «Газпром» и «Горки Город» предлагают склоны на любой уровень подготовки, суммарная протяжённость трасс — более ста километров.',
@@ -257,7 +257,7 @@ export const places: Place[] = [
     title: 'Эльбрус',
     url: 'https://elbrus.ru',
     urlText: 'elbrus.ru',
-    imageSrc: U('photo-1544892374-6ef4567db59b'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Mount_Elbrus_May_2008.jpg',
     imageAlt: 'Двуглавая вершина Эльбруса',
     paragraphs: [
       'Эльбрус — высшая точка России и Европы (5642 м). Двуглавый вулкан с ледяными шапками виден за сотни километров в ясную погоду. Канатная дорога доставляет всех желающих до отметки 3847 м — выше этой точки уже настоящий высотный альпинизм.',
@@ -477,7 +477,7 @@ export const places: Place[] = [
     title: 'Улан-Удэ',
     url: 'https://ulanude.ru',
     urlText: 'ulanude.ru',
-    imageSrc: U('photo-1548690312-e3b507d8c110'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/a/ae/%D0%91%D1%83%D1%80%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%BE%D0%BF%D0%B5%D1%80%D1%8B_%D0%B8_%D0%B1%D0%B0%D0%BB%D0%B5%D1%82%D0%B0%2C_%D0%A0%D0%91.jpg',
     imageAlt: 'Иволгинский дацан под Улан-Удэ',
     paragraphs: [
       'Улан-Удэ — столица Бурятии и восточные ворота Байкала. Здесь живёт самый большой в Европе буддийский монастырь — Иволгинский дацан, — где хранится нетленное тело Пандито Хамбо-ламы Этигэлова.',
@@ -488,7 +488,7 @@ export const places: Place[] = [
     title: 'Чита',
     url: 'https://visitchita.ru',
     urlText: 'visitchita.ru',
-    imageSrc: U('photo-1425913397705-1b851a9c5184'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6_%D0%A7%D0%B8%D1%82%D0%B0.jpg/3840px-%D0%9A%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6_%D0%A7%D0%B8%D1%82%D0%B0.jpg',
     imageAlt: 'Забайкальские пейзажи под Читой',
     paragraphs: [
       'Чита — столица Забайкалья и место ссылки декабристов. Церковь Михаила Архангела, где молились жёны декабристов, дошедшие сюда из Петербурга пешком за мужьями, — один из самых трогательных исторических памятников России.',
@@ -499,7 +499,7 @@ export const places: Place[] = [
     title: 'Камчатка',
     url: 'https://visitkamchatka.ru',
     urlText: 'visitkamchatka.ru',
-    imageSrc: U('photo-1547483238-f400e65ccd56'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B3%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%D0%BE%D0%B2_%282018%29.jpg/3840px-%D0%94%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B3%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%D0%BE%D0%B2_%282018%29.jpg',
     imageAlt: 'Извергающийся вулкан Камчатки',
     paragraphs: [
       'Камчатка — полуостров вулканов, гейзеров и медведей. Двадцать девять действующих вулканов, в том числе Ключевская Сопка — самый высокий активный вулкан Евразии (4750 м). Вулканы Камчатки включены в список Всемирного наследия ЮНЕСКО.',
@@ -521,7 +521,7 @@ export const places: Place[] = [
     title: 'Сахалин',
     url: 'https://sakhalin.ru',
     urlText: 'sakhalin.ru',
-    imageSrc: U('photo-1582647139-9a7c0bef0d5f'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Sakhalin_%28detail%29.PNG',
     imageAlt: 'Берег Охотского моря на Сахалине',
     paragraphs: [
       'Сахалин — самый большой остров России. Здесь смешались японская и советская история: японские памятники архитектуры, тигровая береговая флора, икра прямо с завода и японский ботанический сад в Южно-Сахалинске.',
@@ -532,7 +532,7 @@ export const places: Place[] = [
     title: 'Курильские острова',
     url: 'https://kurilsland.ru',
     urlText: 'kurilsland.ru',
-    imageSrc: U('photo-1547483238-f400e65ccd56'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Kuril_Island.jpg',
     imageAlt: 'Вулкан на Курильских островах',
     paragraphs: [
       'Курильская гряда — цепь из 56 островов между Сахалином и Японией. Действующий вулкан Тятя на Кунашире с идеально правильным конусом — один из красивейших вулканов мира. Горячие источники прямо у океана, кислотные кальдерные озёра, птичьи базары.',
@@ -543,7 +543,7 @@ export const places: Place[] = [
     title: 'Ленские столбы',
     url: 'https://lenskiestolby.ru',
     urlText: 'lenskiestolby.ru',
-    imageSrc: U('photo-1562602833-63110ee1dc37'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%D0%9B%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_2015_%28070%29.JPG/3840px-%D0%9B%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%BE%D0%BB%D0%B1%D1%8B_2015_%28070%29.JPG',
     imageAlt: 'Каменные столбы над Леной в Якутии',
     paragraphs: [
       'Ленские столбы — природный парк в Якутии, внесённый в список ЮНЕСКО. Цепь скальных останцев высотой до 220 метров тянется вдоль берега Лены на 40 километров — зрелище из тех, что невозможно передать фотографией.',
@@ -554,7 +554,7 @@ export const places: Place[] = [
     title: 'Оймякон',
     url: 'https://visityakutia.com',
     urlText: 'visityakutia.com',
-    imageSrc: U('photo-1551629429-f434f4fa9fb4'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Oymyakon_-_190228_DSC_5642.jpg/3840px-Oymyakon_-_190228_DSC_5642.jpg',
     imageAlt: 'Морозный туман в Оймяконе',
     paragraphs: [
       'Оймякон — Полюс холода Северного полушария. В 1926 году здесь была зафиксирована температура -71,2 °C — абсолютный рекорд для обитаемых мест планеты. При этом летом температура поднимается до +34 °C — амплитуда в 105 °C нигде в мире больше не встречается.',
@@ -565,7 +565,7 @@ export const places: Place[] = [
     title: 'Магадан',
     url: 'https://magadantravel.ru',
     urlText: 'magadantravel.ru',
-    imageSrc: U('photo-1516912481800-cf26606b2f35'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/3/30/Magadan%2C_Lenin-Street.jpg',
     imageAlt: 'Берег Охотского моря у Магадана',
     paragraphs: [
       'Магадан — город на Охотском море, построенный руками заключённых ГУЛАГа. Мемориал «Маска скорби» работы Эрнста Неизвестного стоит на сопке над городом. Колымский тракт, уходящий в бесконечную тайгу, — одна из самых пронзительных дорог страны.',
@@ -576,7 +576,7 @@ export const places: Place[] = [
     title: 'Хабаровск',
     url: 'https://khabtravel.ru',
     urlText: 'khabtravel.ru',
-    imageSrc: U('photo-1504214208698-ea1916a2195a'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%D0%A3%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80.jpg/3840px-%D0%A3%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80.jpg',
     imageAlt: 'Набережная Хабаровска и Амур',
     paragraphs: [
       'Хабаровск стоит у слияния Амура и Уссури — на старых рублёвых банкнотах был именно хабаровский мост через Амур. Набережная Амура — одна из лучших в Дальневосточном регионе: протяжённая, зелёная, с видом на китайский берег.',
@@ -785,7 +785,7 @@ export const places: Place[] = [
     title: 'Рязань',
     url: 'https://rzntravel.ru',
     urlText: 'rzntravel.ru',
-    imageSrc: U('photo-1575936123452-b67c3203c357'),
+    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D0%B8.jpg/3840px-%D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D0%B8.jpg',
     imageAlt: 'Рязанский кремль',
     paragraphs: [
       'Рязань — город на Оке, первый разрушенный Батыем в 1237 году. Руины Старой Рязани в 60 километрах от современного города — крупнейшее из нераскопанных городищ России. Рязанский кремль XVII века стоит над Трубежём.',
