@@ -180,7 +180,7 @@ export const places: Place[] = [
     title: 'Плёс',
     url: 'https://ples.ru',
     urlText: 'ples.ru',
-    imageSrc: U('photo-1470770903676-69b98201ea5e'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=18e373b3d572bc9aaf48d0f83afc9b817ca06f87-16119250-images-thumbs&n=13',
     imageAlt: 'Плёс на Волге',
     paragraphs: [
       'Маленький Плёс на высоком берегу Волги стал художественной столицей Золотого кольца благодаря Исааку Левитану. Именно здесь в 1888–1890 годах он написал свои главные полотна: «Вечерний звон», «Над вечным покоем», «Тихая обитель».',
@@ -246,7 +246,7 @@ export const places: Place[] = [
     title: 'Домбай',
     url: 'https://dombai.info',
     urlText: 'dombai.info',
-    imageSrc: U('photo-1464822756841-4ce40802e79a'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=24697a1224b54721dc403ff9ac1c259c9f7ee1e5-2454879-images-thumbs&n=13',
     imageAlt: 'Горы Домбая с ледниками',
     paragraphs: [
       'Домбай — жемчужина Карачаево-Черкесии. Ущелье, сжатое трёхтысячниками с трёх сторон, летом становится базой для треккинга к ледникам Алибек и Птыш, а зимой — горнолыжным курортом с видами, от которых перехватывает дыхание.',
@@ -268,7 +268,7 @@ export const places: Place[] = [
     title: 'Сулакский каньон',
     url: 'https://welcomedagestan.ru',
     urlText: 'welcomedagestan.ru',
-    imageSrc: U('photo-1551629429-f434f4fa9fb4'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=678ff4c7319735663ff3ff050cde4c76a87c2e35-12583786-images-thumbs&n=13',
     imageAlt: 'Сулакский каньон — бирюзовая река',
     paragraphs: [
       'Сулакский каньон в Дагестане глубже Большого Каньона в США на 63 метра — его глубина достигает 1920 метров. По дну течёт бирюзовая река Сулак, а смотровые площадки на краю обрыва открывают один из самых впечатляющих видов в России.',
@@ -279,7 +279,7 @@ export const places: Place[] = [
     title: 'Горный Дагестан',
     url: 'https://welcomedagestan.ru/places',
     urlText: 'welcomedagestan.ru',
-    imageSrc: U('photo-1516912481800-cf26606b2f35'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=970503aa8ee4bd8a7fa0fd79dc66679dd179ca8e-3932796-images-thumbs&n=13',
     imageAlt: 'Горное село в Дагестане',
     paragraphs: [
       'Дагестан — страна гор и сорока народов. Аулы, прилепившиеся к отвесным скалам, кажется, стоят здесь со дня сотворения мира. Гунибский район, древний Дербент с персидской крепостью, «Кавказская Швейцария» Рутул — каждое место по масштабу красоты не уступает знаменитым европейским курортам.',
@@ -290,7 +290,7 @@ export const places: Place[] = [
     title: 'Аргунское ущелье',
     url: 'https://visitchechnya.com',
     urlText: 'visitchechnya.com',
-    imageSrc: U('photo-1568393691622-c7ba131d1b16'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=5f8dfe4de74e74bfeebc7b984b4e1db44ab077dd-12473832-images-thumbs&n=13',
     imageAlt: 'Горы Чечни — Аргунское ущелье',
     paragraphs: [
       'Аргунское ущелье — самое длинное и глубокое ущелье на Северном Кавказе. Здесь стоят средневековые боевые башни вайнахов, которые строили без раствора и которые не может разрушить ни время, ни землетрясение.',
@@ -301,7 +301,7 @@ export const places: Place[] = [
     title: 'Дельта Волги',
     url: 'https://astrakhan.net',
     urlText: 'astrakhan.net',
-    imageSrc: U('photo-1476514525535-07fb3b4ae5f1'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=4fe6ed9a5cf1243fe42309e40741f65950e93ec0-5239583-images-thumbs&n=13',
     imageAlt: 'Лотосы в дельте Волги',
     paragraphs: [
       'Дельта Волги — крупнейшая в Европе и одна из самых богатых экосистем страны. В конце июля — начале августа здесь цветут лотосы: тысячи гектаров розовых цветов, которые видно даже из самолёта.',
@@ -312,7 +312,7 @@ export const places: Place[] = [
     title: 'Волгоград',
     url: 'https://volgograd.ru',
     urlText: 'volgograd.ru',
-    imageSrc: U('photo-1531761533-1b2b7cf30d82'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=f569b34e3d97596e4fe4dd2cc1cc9848dcc0cdff-4778614-images-thumbs&n=13',
     imageAlt: 'Мамаев курган и Родина-мать',
     paragraphs: [
       'Сталинградская битва — переломный момент Второй мировой войны, и Волгоград хранит эту память. Мамаев курган с 85-метровой статуей Родины-матери, Панорама битвы, Руины мельницы Гергардта, оставленные нетронутыми в назидание потомкам.',
@@ -323,7 +323,7 @@ export const places: Place[] = [
     title: 'Ростов Великий',
     url: 'https://visitrostov.ru',
     urlText: 'visitrostov.ru',
-    imageSrc: U('photo-1504214208698-ea1916a2195a'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=cde439889e57dc77ea7dc27c1bc921e0eb964645-5235164-images-thumbs&n=13',
     imageAlt: 'Ростовский кремль',
     paragraphs: [
       'Ростов Великий — один из древнейших городов России, упомянутый в летописях в 862 году. Белокаменный кремль XVII века с тринадцатью башнями и тремя церквями внутри — идеальная декорация к путешествию в прошлое.',
@@ -334,7 +334,7 @@ export const places: Place[] = [
     title: 'Екатеринбург',
     url: 'https://ekburg.ru',
     urlText: 'ekburg.ru',
-    imageSrc: U('photo-1523906834548-d2a3b17e67af'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=14f7d95c68b8da2faf74ee7360122d1d2c432a8c-5234670-images-thumbs&n=13',
     imageAlt: 'Городской пруд Екатеринбурга',
     paragraphs: [
       'Столица Урала — четвёртый по величине город России и один из самых современных. Город Ельцина с первым в стране президентским центром, мощная архитектурная школа конструктивизма и живая арт-сцена делают его обязательным пунктом на карте путешествий.',
@@ -345,7 +345,7 @@ export const places: Place[] = [
     title: 'Каменный город',
     url: 'https://visitperm.ru',
     urlText: 'visitperm.ru',
-    imageSrc: U('photo-1562602833-63110ee1dc37'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=306385e051d11a93dd4c06de679108d334b60905-4256965-images-thumbs&n=13',
     imageAlt: 'Каменный город — скалы в Пермском крае',
     paragraphs: [
       'Каменный город — природный лабиринт скал-останцев на юге Пермского края. Узкие коридоры между серыми утёсами высотой до 25 метров, покрытыми мхом и лишайниками, напоминают декорации фэнтезийного фильма.',
@@ -356,7 +356,7 @@ export const places: Place[] = [
     title: 'Кунгурская пещера',
     url: 'https://kungur-cave.ru',
     urlText: 'kungur-cave.ru',
-    imageSrc: U('photo-1448630360862-ad08e3d68bf6'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=c3d3ed20216bb9981d7e8750ed35f2728f39ad4c-5244544-images-thumbs&n=13',
     imageAlt: 'Ледяные кристаллы в Кунгурской пещере',
     paragraphs: [
       'Кунгурская ледяная пещера — одна из крупнейших гипсовых пещер в мире и самая знаменитая на Урале. Семь километров подземных галерей с 80 гротами, 70 озёрами и ледяными кристаллами, которые не тают даже летом.',
@@ -367,7 +367,7 @@ export const places: Place[] = [
     title: 'Таганай',
     url: 'https://taganay.org',
     urlText: 'taganay.org',
-    imageSrc: U('photo-1425913397705-1b851a9c5184'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=0613b3e3ca65a3ba74d6907ba4e98598da8e5713-8497237-images-thumbs&n=13',
     imageAlt: 'Курумник Таганая',
     paragraphs: [
       'Национальный парк Таганай — настоящий Уральский заповедник в 30 километрах от Челябинска. Три хребта, Большая Каменная река — курумник длиной шесть километров, — и гора Круглица высотой 1178 м создают ощущение настоящей дикой природы.',
@@ -389,7 +389,7 @@ export const places: Place[] = [
     title: 'Ольхон',
     url: 'https://olkhon.info',
     urlText: 'olkhon.info',
-    imageSrc: U('photo-1544892374-6ef4567db59b'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=3229efe4de2e7b8eb9b2e09759e42f87045805dc-7544543-images-thumbs&n=13',
     imageAlt: 'Мыс Бурхан на Ольхоне',
     paragraphs: [
       'Остров Ольхон — сердце Байкала. По шаманской традиции бурятского народа, он — место, где живут духи озера. Скала Шаманка на мысе Бурхан — одна из девяти святынь Азии.',
@@ -400,7 +400,7 @@ export const places: Place[] = [
     title: 'Кругобайкальская ж/д',
     url: 'https://kbzhd.ru',
     urlText: 'kbzhd.ru',
-    imageSrc: U('photo-1470770903676-69b98201ea5e'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=a6f7f3adc0f8196c873192c54353bcc3ed8bd074-10877992-images-thumbs&n=13',
     imageAlt: 'Поезд вдоль берега Байкала',
     paragraphs: [
       'Кругобайкальская железная дорога — один из самых красивых железнодорожных маршрутов в мире. Всего 89 километров пути вдоль берега Байкала включают 39 тоннелей, 15 галерей и более 470 мостов и виадуков.',
@@ -411,7 +411,7 @@ export const places: Place[] = [
     title: 'Шерегеш',
     url: 'https://sheregesh.ru',
     urlText: 'sheregesh.ru',
-    imageSrc: U('photo-1464822756841-4ce40802e79a'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=e63fcc24d2ba8456235c018cd4ad6d9ce0096327-10577131-images-thumbs&n=13',
     imageAlt: 'Горнолыжные трассы Шерегеша',
     paragraphs: [
       'Шерегеш в Горной Шории — один из лучших горнолыжных курортов Сибири и России. Снег здесь начинается в октябре и держится до апреля — мая. Главная особенность Шерегеша — «гелендваген»: мокрый пушистый снег на деревьях, который выглядит как декорации к сказке.',
@@ -422,7 +422,7 @@ export const places: Place[] = [
     title: 'Красноярские Столбы',
     url: 'https://stolby.ru',
     urlText: 'stolby.ru',
-    imageSrc: U('photo-1562602833-63110ee1dc37'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=486428e633540da87842346b625f199311d3ba1e-5655335-images-thumbs&n=13',
     imageAlt: 'Скалы в заповеднике Красноярские Столбы',
     paragraphs: [
       'Заповедник «Столбы» прямо у границ Красноярска — уникальное место. Сиенитовые столбы высотой от 55 до 100 метров, вздымающиеся над тайгой, — природные скульптуры, которые нравятся и альпинистам, и простым горожанам.',
@@ -433,7 +433,7 @@ export const places: Place[] = [
     title: 'Хакасия',
     url: 'https://hакасия.рф',
     urlText: 'хакасия.рф',
-    imageSrc: U('photo-1579952363029-76a4148e9e20'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=679eb22fe8966d49c9a02858d90338892e0e6209-12500667-images-thumbs&n=13',
     imageAlt: 'Степи и курганы Хакасии',
     paragraphs: [
       'Хакасия — степная республика среди гор Южной Сибири, хранящая следы цивилизаций бронзового и железного веков. Более трёх тысяч курганов и каменных изваяний таштыкской культуры разбросаны по степям — самая высокая концентрация петроглифов в России.',
@@ -444,7 +444,7 @@ export const places: Place[] = [
     title: 'Тыва',
     url: 'https://visittuva.ru',
     urlText: 'visittuva.ru',
-    imageSrc: U('photo-1579952363029-76a4148e9e20'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=bf839476ca54fbc54278aedf40284b4588690795-16318762-images-thumbs&n=13',
     imageAlt: 'Степи Тывы и кочевые юрты',
     paragraphs: [
       'Тыва — самая закрытая и самая аутентичная республика России. Кызыл находится в географическом центре Азии — обелиск «Центр Азии» стоит прямо у берега Енисея. Горловое пение тувинцев (хоомей) признано нематериальным наследием ЮНЕСКО.',
@@ -455,7 +455,7 @@ export const places: Place[] = [
     title: 'Плато Путорана',
     url: 'https://putoran.ru',
     urlText: 'putoran.ru',
-    imageSrc: U('photo-1465310477141-6fb93167b8f2'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=8a019be475e25e175259f64bb5bd24c9fe40e7b0-9097093-images-thumbs&n=13',
     imageAlt: 'Водопад на плато Путорана',
     paragraphs: [
       'Плато Путорана — одно из самых труднодоступных и самых величественных мест в России. Базальтовое плато в центре Сибири, площадью больше Великобритании, включает крупнейшую систему водопадов страны: здесь находится Тальниковый — самый высокий водопад России (600 м).',
@@ -587,7 +587,7 @@ export const places: Place[] = [
     title: 'Владивосток',
     url: 'https://visitvladivostok.ru',
     urlText: 'visitvladivostok.ru',
-    imageSrc: U('photo-1582647139-9a7c0bef0d5f'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=fc12dc5bb57a1962e5ed1063f8bb53ebf0c35b9c-5883964-images-thumbs&n=13',
     imageAlt: 'Мост на остров Русский во Владивостоке',
     paragraphs: [
       'Владивосток — «форточка в Тихий океан» и самый восточный мегаполис России. Вантовые мосты на острова Русский и Золотой Рог, бухта с военными кораблями и корейскими кальмарами на рынке, тигры в двух часах езды от города.',
@@ -598,7 +598,7 @@ export const places: Place[] = [
     title: 'Земля леопарда',
     url: 'https://leoppard.ru',
     urlText: 'leoppard.ru',
-    imageSrc: U('photo-1568393691622-c7ba131d1b16'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=c7ce47c536d34ae65d012fce2a0475ba4ace4ec7-9181645-images-thumbs&n=13',
     imageAlt: 'Уссурийская тайга — место обитания дальневосточного леопарда',
     paragraphs: [
       'Национальный парк «Земля леопарда» — место, где обитает один из редчайших хищников планеты: дальневосточный леопард. Ещё в 2007 году их оставалось тридцать особей. Благодаря заповедному статусу популяция выросла до ста двадцати.',
@@ -609,7 +609,7 @@ export const places: Place[] = [
     title: 'Чукотка',
     url: 'https://chukotka.org',
     urlText: 'chukotka.org',
-    imageSrc: U('photo-1579952363029-76a4148e9e20'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=30de5ef8e08f07db8efd19e913695090b1f4f4bd-5284012-images-thumbs&n=13',
     imageAlt: 'Тундра и горы Чукотки',
     paragraphs: [
       'Чукотка — последний предел. Самая восточная точка России в нескольких километрах от Аляски. Тундра, белые медведи на берегах Берингова моря, чукотские вёсельные байдарки и китобойная охота, которую коренные народы практикуют по сей день.',
@@ -620,7 +620,7 @@ export const places: Place[] = [
     title: 'Командорские острова',
     url: 'https://komandorsky.ru',
     urlText: 'komandorsky.ru',
-    imageSrc: U('photo-1582647139-9a7c0bef0d5f'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=5837cda960ce18df2905d582c3d0ca7f7dff5d4d-6003430-images-thumbs&n=13',
     imageAlt: 'Лежбище котиков на Командорских островах',
     paragraphs: [
       'Командорские острова — самые удалённые острова России. Именно здесь в 1741 году умер Витус Беринг, открывший для Европы пролив между Азией и Америкой. На острове Беринга до сих пор можно найти кости стеллеровой коровы — животного, истреблённого через 27 лет после открытия.',
@@ -631,7 +631,7 @@ export const places: Place[] = [
     title: 'Архангельск',
     url: 'https://www.arhcity.ru',
     urlText: 'arhcity.ru',
-    imageSrc: U('photo-1465310477141-6fb93167b8f2'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=90e95bfd902f4c957199f8c60b6d8bb8fb753424-10339875-images-thumbs&n=13',
     imageAlt: 'Северная Двина в Архангельске',
     paragraphs: [
       'Архангельск — первый морской порт России, через который в XVI–XVII веках шла вся внешняя торговля страны. Деревянная архитектура Русского Севера здесь под боком: Малые Карелы — крупнейший в стране музей деревянного зодчества под открытым небом.',
@@ -642,7 +642,7 @@ export const places: Place[] = [
     title: 'Мурманск',
     url: 'https://murmansk.travel',
     urlText: 'murmansk.travel',
-    imageSrc: U('photo-1544550581-5f7ceaf7f992'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=96a8f1a2b911145efc76ce151c16ff792bb68d53-8184004-images-thumbs&n=13',
     imageAlt: 'Северное сияние над Мурманском',
     paragraphs: [
       'Мурманск — самый большой в мире город за Полярным кругом. Незамерзающий порт, атомный ледокол «Ленин» у причала в качестве музея и полярная ночь с декабря по январь — тёмная, но полная северного сияния.',
@@ -653,7 +653,7 @@ export const places: Place[] = [
     title: 'Нарьян-Мар',
     url: 'https://naryan-mar.ru',
     urlText: 'naryan-mar.ru',
-    imageSrc: U('photo-1579952363029-76a4148e9e20'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=b27869c41387e34b2549d9a1be2f50a53358f034-5205517-images-thumbs&n=13',
     imageAlt: 'Тундра и Печора у Нарьян-Мара',
     paragraphs: [
       'Нарьян-Мар — «красный город» по ненецки, столица Ненецкого автономного округа. В устье Печоры, среди тундры, этот маленький город (25 тысяч жителей) живёт в ритме, непохожем ни на что.',
@@ -664,7 +664,7 @@ export const places: Place[] = [
     title: 'Ямал',
     url: 'https://yamaltourism.ru',
     urlText: 'yamaltourism.ru',
-    imageSrc: U('photo-1579952363029-76a4148e9e20'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=1e0af82a0df407929aeac732dff565e9dcc11382-9065868-images-thumbs&n=13',
     imageAlt: 'Ненецкие оленеводы в тундре Ямала',
     paragraphs: [
       'Ямал — «край земли» на ненецком языке. Полуостров уходит в Карское море, и его тундра — пространство для оленьих кочевий, которые проходят тысячи километров каждый год. Ненецкие чумы, расписные нарты, звон бубна шамана.',
@@ -675,7 +675,7 @@ export const places: Place[] = [
     title: 'Таймыр',
     url: 'https://putoran.ru/taimyr',
     urlText: 'putoran.ru',
-    imageSrc: U('photo-1516912481800-cf26606b2f35'),
+    imageSrc: 'https://avatars.mds.yandex.net/i?id=39b1711aeb1284345c9ee66036199372ca163461-9106769-images-thumbs&n=13',
     imageAlt: 'Арктическая тундра Таймыра',
     paragraphs: [
       'Таймырский полуостров — самая северная материковая территория Земли. Мыс Челюскин (77°43′ с. ш.) — крайняя северная точка Азии, которую Семён Челюскин достиг в 1742 году. Дикая природа здесь абсолютная: нет дорог, нет деревень, есть только тундра и небо.',
