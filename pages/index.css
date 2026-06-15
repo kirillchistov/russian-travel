@@ -64,7 +64,6 @@
 @import url('../blocks/cover/__content/cover__content.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
-@import url('../blocks/cover/__background/cover__background.css');
 
 /* Footer  BEM */
 @import url('../blocks/footer/footer.css');
@@ -73,3 +72,13 @@
 @import url('../blocks/footer/__list-item/footer__list-item.css');
 @import url('../blocks/footer/__link/footer__link.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
+
+/* Hide Google Translate banner (both old and new class names) */
+.goog-te-banner-frame.skiptranslate,
+iframe[id=":1.container"] { display: none !important; }
+body { top: 0 !important; }
+
+/* Active language link */
+.header__lang-link_active {
+  box-shadow: 0 1px 0 0 #fff;
+}
