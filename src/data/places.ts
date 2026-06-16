@@ -70,7 +70,7 @@ export const places: Place[] = [
     title: 'Валаам',
     url: 'https://valaam.ru',
     urlText: 'valaam.ru',
-    imageSrc: 'https://prv1.lori-images.net/ostrov-valaam-na-ladozhskom-ozere-0042013489-preview.jpg',
+    imageSrc: 'https://putidorogi-nn.ru/images/stories/evropa/rossiya/valaamskiy_monastyr_24.jpg',
     imageAlt: 'Валаамский монастырь на рассвете',
     paragraphs: [
       'Архипелаг в северной части Ладожского озера известен прежде всего Валаамским Спасо-Преображенским монастырём — одной из главных православных святынь России. Сюда приплывали паломники ещё в XII веке, и сегодня монастырские скиты разбросаны по всему острову.',
@@ -180,7 +180,7 @@ export const places: Place[] = [
     title: 'Плёс',
     url: 'https://ples.ru',
     urlText: 'ples.ru',
-    imageSrc: 'https://avatars.mds.yandex.net/i?id=18e373b3d572bc9aaf48d0f83afc9b817ca06f87-16119250-images-thumbs&n=13',
+    imageSrc: 'https://blog.ostrovok.ru/wp-content/uploads/2019/07/ostrovok-filters-4-10.46.555.jpg',
     imageAlt: 'Плёс на Волге',
     paragraphs: [
       'Маленький Плёс на высоком берегу Волги стал художественной столицей Золотого кольца благодаря Исааку Левитану. Именно здесь в 1888–1890 годах он написал свои главные полотна: «Вечерний звон», «Над вечным покоем», «Тихая обитель».',
@@ -213,7 +213,7 @@ export const places: Place[] = [
     title: 'Самара',
     url: 'https://samaratravel.ru',
     urlText: 'samaratravel.ru',
-    imageSrc: U('photo-1505118380757-91f5f5632de0'),
+    imageSrc: 'https://tripplanet.ru/wp-content/uploads/europe/russia/samara/dostoprimechatelnosti-samary.jpg',
     imageAlt: 'Набережная Самары на закате',
     paragraphs: [
       'Самарская набережная — пять километров вдоль Волги — одна из самых длинных в Европе. Летними вечерами она превращается в непрерывный праздник: музыканты, велосипедисты, запах шашлыка над рекой.',
@@ -455,7 +455,7 @@ export const places: Place[] = [
     title: 'Плато Путорана',
     url: 'https://putoran.ru',
     urlText: 'putoran.ru',
-    imageSrc: 'https://avatars.mds.yandex.net/i?id=8a019be475e25e175259f64bb5bd24c9fe40e7b0-9097093-images-thumbs&n=13',
+    imageSrc: 'https://www.russiadiscovery.ru/storage/orig/gallery_images_region/389/img_660af9b1d2d64.jpg',
     imageAlt: 'Водопад на плато Путорана',
     paragraphs: [
       'Плато Путорана — одно из самых труднодоступных и самых величественных мест в России. Базальтовое плато в центре Сибири, площадью больше Великобритании, включает крупнейшую систему водопадов страны: здесь находится Тальниковый — самый высокий водопад России (600 м).',
@@ -510,7 +510,7 @@ export const places: Place[] = [
     title: 'Долина гейзеров',
     url: 'https://kronoki.ru',
     urlText: 'kronoki.ru',
-    imageSrc: U('photo-1547483238-f400e65ccd56'),
+    imageSrc: 'https://kam-travel.ru/wp-content/uploads/2020/05/dolina-gejzerov-na-kamchatke-geyzeri.jpg',
     imageAlt: 'Гейзеры в Долине гейзеров на Камчатке',
     paragraphs: [
       'Долина гейзеров — единственное гейзерное поле в Евразии и второе по величине в мире. В ущелье реки Гейзерной на 4 квадратных километрах сосредоточены сотни термальных источников, кипящие грязевые котлы и сорок больших гейзеров.',
@@ -521,7 +521,7 @@ export const places: Place[] = [
     title: 'Сахалин',
     url: 'https://sakhalin.ru',
     urlText: 'sakhalin.ru',
-    imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/2/2d/Sakhalin_%28detail%29.PNG',
+    imageSrc: 'https://cdn.culture.ru/images/79fdea78-38f7-5c10-8d29-107e01387bb4',
     imageAlt: 'Берег Охотского моря на Сахалине',
     paragraphs: [
       'Сахалин — самый большой остров России. Здесь смешались японская и советская история: японские памятники архитектуры, тигровая береговая флора, икра прямо с завода и японский ботанический сад в Южно-Сахалинске.',
@@ -697,7 +697,7 @@ export const places: Place[] = [
     title: 'Земля Франца-Иосифа',
     url: 'https://russiannationalpark.ru',
     urlText: 'russiannationalpark.ru',
-    imageSrc: U('photo-1544550581-5f7ceaf7f992'),
+    imageSrc: 'https://www.russiadiscovery.ru/storage/images/resized/posts/1327/poster/154/original_1220.jpg',
     imageAlt: 'Арктические льды архипелага',
     paragraphs: [
       'Земля Франца-Иосифа — самый северный архипелаг России (до 81°51′ с. ш.) и часть национального парка «Русская Арктика». Сюда доходили экспедиции Нансена, Де Брюйне и Джексона в поисках Северного полюса.',
@@ -741,7 +741,7 @@ export const places: Place[] = [
     title: 'Тотьма',
     url: 'https://totma.ru',
     urlText: 'totma.ru',
-    imageSrc: U('photo-1504214208698-ea1916a2195a'),
+    imageSrc: 'https://cultinfo.ru/upload/iblock/e76/5tyzzm5iigbqemmk5wln6j4kdiur13kw/5.jpg',
     imageAlt: 'Барочные церкви Тотьмы',
     paragraphs: [
       'Тотьма — маленький город в Вологодской области, прославившийся нетипичным для России «тотемским барокко»: местные купцы-землепроходцы, разбогатевшие на пушной торговле с Русской Америкой, строили церкви с уникальными картушами, которых нет нигде в мире.',
